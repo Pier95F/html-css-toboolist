@@ -51,6 +51,7 @@ h2{
 
 li{
     font-size: 12px;
+    margin: 15px;
 }
 
 .circle{
@@ -62,6 +63,7 @@ li{
         text-align: center;
         font-size: 10px;
         color: green;
+        margin-right: 10px;
 }
 
 .editorial{
@@ -71,6 +73,7 @@ li{
     border-radius:10px;
     background-color: #14aaf5;
     color: white;
+    margin-left: 3px;
 }
 
 .q1{
@@ -80,6 +83,7 @@ li{
     border-radius: 10px;
     background-color: #ab5de6;
     color: white;
+    margin-left: 3px;
 }
 
 .cross{
@@ -91,6 +95,7 @@ li{
     text-align: center;
     font-size: 10px;
     color: red;
+    margin-right: 10px;
 }
 
 .recruiting{
@@ -100,6 +105,7 @@ li{
     border-radius: 10px;
     background-color: #2cc6ab;
     color: white;
+    margin-left: 3px;
 }
 
 .mobile{
@@ -109,6 +115,7 @@ li{
     border-radius: 10px;
     background-color: #ff9b00;
     color: white;
+    margin-left: 3px;
 }
 
 .website{
@@ -118,6 +125,7 @@ li{
     border-radius: 10px;
     background-color: #ec4a9d;
     color: white;
+    margin-left: 3px;
 }
 
 .sales{
@@ -127,4 +135,5 @@ li{
     border-radius: 10px;
     background-color: #a3d117;
     color: white;
+    margin-left: 3px;
 }
