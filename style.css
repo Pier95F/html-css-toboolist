@@ -39,20 +39,28 @@ header{
     color: #c4cbd0;
 }
 
+.top{
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 0px;
+    border-bottom: 2px, solid;
+    border-color: #f6f8f9;
+}
 ul{
     list-style: none;
-    padding-top: 30px;
-}
+    }
 
 h2{
     font-size: 15px;
     font: bold;
-    padding-left: 15px;
+    padding-top: 10px;
+    margin-left: 230px;
 }
 
 li{
     font-size: 12px;
-    margin: 15px;
+    padding: 10px;
+    margin-left: 220px;
 }
 
 .circle{
